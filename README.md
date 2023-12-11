@@ -1,6 +1,6 @@
 <div align=center>
 
-  ### Hi👋 I'm Seohyun Kwon.
+  ### Hi👋 I'm AHyeon Lee.
     
   #### 💌Contact💌
   <p> 
