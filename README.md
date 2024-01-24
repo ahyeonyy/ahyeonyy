@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&section=header&text=Welcome&fontSize=80)
   
@@ -76,3 +76,4 @@ Here are some ideas to get you started:
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lee.a.hyeon@gmail.com)](mailto:lee.a.hyeon@gmail.com)
 
+-->
