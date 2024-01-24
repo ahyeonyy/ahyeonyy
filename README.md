@@ -4,7 +4,7 @@
     
   #### 💌Contact💌
   <p> 
-  <a href="https://blog.naver.com/qlqlql8448" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+  <a href="https://https://velog.io/@ahyeonyy/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   <a href="mailto:lee.a.hyeon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/a_hyeonyy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   </p>
