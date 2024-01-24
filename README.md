@@ -50,16 +50,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&section=header&text=Welcome&fontSize=80)
   
-####  :wave: Welcome my github profile !
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qlqlql8448)](https://solved.ac/qlqlql8448)     
-[![<qlqlql8448>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=qlqlql8448&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
- <br/>
- 
-## ✨Programmers [프로그래머스](https://programmers.co.kr/)
-  #### `rank`    :    14463
-  #### `score`    :    1435
-  #### `solved`    :    253
-
 
 
 ### 💪 Skills
