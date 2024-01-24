@@ -4,7 +4,7 @@
     
   #### 💌Contact💌
   <p> 
-  <a href="https://https://velog.io/@ahyeonyy/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+  <a href="https://velog.io/@ahyeonyy/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   <a href="mailto:lee.a.hyeon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/a_hyeonyy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   </p>
@@ -34,7 +34,7 @@
 
 
 <!--
-**gr033/gr033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**qlqlql8448/qlqlql8448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&section=header&text=Welcome&fontSize=80)
   
 ####  :wave: Welcome my github profile !
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gr033)](https://solved.ac/gr033)     
-[![<gr033>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=gr033&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gr033)](https://solved.ac/qlqlql8448)     
+[![<qlqlql8448>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=gr033&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
  
 ## ✨Programmers [프로그래머스](https://programmers.co.kr/)
